@@ -1,4 +1,4 @@
 def add(a, b):
     #function to add two numbers
-    print(a, b)
+    print("Adding", a, "and", b)
     return a + b
