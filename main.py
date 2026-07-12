@@ -1,2 +1,5 @@
-def add():
-    return 1+2
+def add(a, b):
+    #function to add two numbers
+    print("Adding", a, "and", b)
+    print(a,b)
+    return a + b
